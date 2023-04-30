@@ -1,5 +1,11 @@
 <h1 align="center">Sisyphus Reverse Shell<br></h1><br>
 
+
+<br>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/52697989/235373672-730ee3ab-6079-4147-a95f-319db2ed41fc.png" alt="Screenshot">
+</p>
+
 <br>
 Sisyphus is a simple reverse shell implementation using ZeroMQ for communication between client and server.
 
