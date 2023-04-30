@@ -1,6 +1,13 @@
-# Sisyphus
-Sisyphus is a simple reverse shell implementation using ZeroMQ
+# Sisyphus Reverse Shell
 
+Sisyphus is a simple reverse shell implementation using ZeroMQ for communication between client and server.
+
+
+### Prerequisites
+
+- Python 3.x
+- ZeroMQ library: Install using `pip install pyzmq`
+- 
 
 ## Example
 
@@ -20,3 +27,8 @@ Server:
 Listening on 0.0.0.0:5001...
 
 ```
+
+
+## Disclaimer:
+
+Sisyphus Reverse shell is intended for educational and testing purposes only. The author is not responsible for any illegal or unauthorized use of this exploit. Use at your own risk.
