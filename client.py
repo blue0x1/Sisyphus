@@ -3,7 +3,7 @@ import subprocess
 import os
 import getpass
 
-print("Sisyphus - Remote Command Execution Tool")
+print("Sisyphus - Reverse Shell")
 print("Author: Chokri Hammedi\n")
 
 
